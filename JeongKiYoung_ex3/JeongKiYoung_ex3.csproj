@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AF36A5D4-D558-4E6F-AAC9-DFE6ABA4C18B}</ProjectGuid>
+    <ProjectGuid>{DE35F928-6A36-4A5B-999B-771A210DDB4B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>JeongKiYoung_ex2</RootNamespace>
-    <AssemblyName>JeongKiYoung_ex2</AssemblyName>
+    <RootNamespace>JeongKiYoung_ex3</RootNamespace>
+    <AssemblyName>JeongKiYoung_ex3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

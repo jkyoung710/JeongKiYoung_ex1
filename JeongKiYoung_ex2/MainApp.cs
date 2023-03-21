@@ -38,8 +38,6 @@ namespace JeongKiYoung_ex2
             }
 
 
-
-
         }
     }
 }

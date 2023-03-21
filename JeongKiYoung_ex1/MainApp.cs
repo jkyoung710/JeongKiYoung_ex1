@@ -19,9 +19,10 @@ namespace JeongKiYoung_ex1
 
             Console.Write("정수를 입력하세요 : ");
 
+
             string input = Console.ReadLine();
             int number = Convert.ToInt32(input);
-            
+            // int c = number - 1;
 
             for (int a = 1; a <= number; a++)
             {
@@ -34,8 +35,6 @@ namespace JeongKiYoung_ex1
                 Console.WriteLine();
 
             }
-
-
 
 
         }
