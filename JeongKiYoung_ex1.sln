@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeongKiYoung_ex2", "JeongKi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeongKiYoung_ex3", "JeongKiYoung_ex3\JeongKiYoung_ex3.csproj", "{DE35F928-6A36-4A5B-999B-771A210DDB4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeongKiYoung_ex4", "JeongKiYoung_ex4\JeongKiYoung_ex4.csproj", "{3D223BF2-5655-4ED3-8E08-5BFBE2A9CEB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DE35F928-6A36-4A5B-999B-771A210DDB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE35F928-6A36-4A5B-999B-771A210DDB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE35F928-6A36-4A5B-999B-771A210DDB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D223BF2-5655-4ED3-8E08-5BFBE2A9CEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D223BF2-5655-4ED3-8E08-5BFBE2A9CEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D223BF2-5655-4ED3-8E08-5BFBE2A9CEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D223BF2-5655-4ED3-8E08-5BFBE2A9CEB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
