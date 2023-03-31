@@ -13,8 +13,9 @@ namespace JeongKiYoung_ex4
             int number = Convert.ToInt32(input);
             // int c = number - 1;
 
-            
-            
+
+            if (number <= 0)
+                goto BYE;
 
             for (int a = 1; a <= number; a++)
             {
@@ -30,8 +31,7 @@ namespace JeongKiYoung_ex4
             }
             return;
 
-            if (number <= 0)
-                goto BYE;
+            
             BYE:
             Console.WriteLine("0보다 작거나 같은 수는 입력할 수 없습니다.");
 
